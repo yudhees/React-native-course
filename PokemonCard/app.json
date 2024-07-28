@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "PokemonCard",
+    "slug": "PokemonCard",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/app-logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app-logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.yudhees.PokemonCard"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a0729d37-6dca-4108-be65-4e12b39cf0a5"
+      }
+    }
+  }
+}
